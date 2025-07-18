@@ -26,3 +26,27 @@ Bot Dev      = ["Telegram Bots", "Discord Bots"]
 Web Dev      = ["Flask", "FastAPI", "Streamlit"]
 Voice Tech   = ["gTTS", "pygame", "SpeechRecognition", "TTS Engines"]
 Tools        = ["Docker", "Render", "Fly.io", "Git", "GitHub"]
+
+🧪 Current Projects
+🔥 AAGNI: Human-like AI assistant with Gemini integration & voice output
+
+🎮 Custom Python Games: Wordle, Tic Tac Toe with twist
+
+🤖 Gesture-controlled Mac Commands like Iron Man style
+
+🎵 Bhajan to Bhakti Video Creator using your own vocals
+
+
+🌐 Connect with Me
+<p align="center"> <a href="https://github.com/Kansal0920" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Kansal0920-181717?style=for-the-badge&logo=github" /> </a> <a href="mailto:bhavyakansal.official@gmail.com"> <img src="https://img.shields.io/badge/Gmail-bhavyakansal-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://www.linkedin.com/in/bhavyakansal/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-BhavyaKansal-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+
+
+🧠 Fun Fact
+💬 I’m not building software... I’m building future tech.
+🧞 AAGNI is not just a bot, it's the beginning of a revolution 🤖🔥
+👁️‍🗨️ Vision: One day... you'll talk to machines like you're talking to your best friend. I'm making that happen.
+
+
+<h3 align="center">⚡ The Future is Here. And It’s Built by Me. ⚡</h3> <p align="center"> <img src="https://media.giphy.com/media/xTiTnf9SCIVF6v3g0g/giphy.gif" width="120"> </p> ```
+
+
