@@ -1,52 +1,78 @@
 <p align="center">
-  <img src="banner.png" alt="Bhavya Kansal Banner" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px cyan;">
+  <img src="banner.png" width="100%" style="border-radius: 20px;" alt="Bhavya Kansal | AAGNI Banner">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=4000&pause=1000&color=0FF5FC&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hey+There!+I+am+Bhavya+Kansal;AI+Developer+%7C+Tech+Wizard+%7C+Future+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=0FF5FC&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Namaste+%F0%9F%91%8B%2C+I+am+Bhavya+Kansal;AI+Developer+%7C+Future+Tech+Architect+%7C+Visionary+Builder+of+AAGNI" alt="Typing Intro" />
 </h1>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-> 👨‍💻 I'm not just coding, I'm building **futuristic tech** to make the world feel like J.A.R.V.I.S. is real.  
-> 🔥 My brain runs on Python, AI, and a love for innovation.  
-> ⚡ I believe in creating **human-like intelligent systems** that talk, listen, and think.  
-> 🎯 Focused on combining **voice, vision, and machine intelligence** into one powerful assistant: **AAGNI**.
+> 🧠 I’m Bhavya Kansal — a passionate **AI developer** working on real-time futuristic systems like voice assistants, gesture control, and predictive AI.  
+> ⚡ My projects aren't just cool — they’re a glimpse of what **India’s tech future** looks like.  
+> 🚀 Let's not wait for the future... let's **build it**.
 
 ---
 
-## 🚀 Skills & Tech Stack
+## 🚀 Tech Arsenal
 
-```python
-Languages    = ["Python", "JavaScript", "HTML/CSS"]
-AI/ML        = ["TensorFlow", "Scikit-learn", "Gemini AI", "Vosk", "Whisper"]
-Bot Dev      = ["Telegram Bots", "Discord Bots"]
-Web Dev      = ["Flask", "FastAPI", "Streamlit"]
-Voice Tech   = ["gTTS", "pygame", "SpeechRecognition", "TTS Engines"]
-Tools        = ["Docker", "Render", "Fly.io", "Git", "GitHub"]
+| Domain        | Tools & Skills |
+|---------------|----------------|
+| **Languages** | Python, JavaScript, Java, HTML/CSS |
+| **AI/ML**     | TensorFlow, Scikit-learn, Gemini API, Whisper, Vosk |
+| **Frontend**  | React.js, Tailwind CSS |
+| **Backend**   | Node.js, Express.js, FastAPI |
+| **Voice AI**  | gTTS, pygame, SpeechRecognition |
+| **Tools**     | GitHub, Linux, Docker, Render, VSCode |
 
-🧪 Current Projects
-🔥 AAGNI: Human-like AI assistant with Gemini integration & voice output
+---
 
-🎮 Custom Python Games: Wordle, Tic Tac Toe with twist
+## 🔥 Projects that Define Me
 
-🤖 Gesture-controlled Mac Commands like Iron Man style
+- 🔥 **AAGNI** – India’s AI Assistant: Voice + Gemini-powered 🤖  
+- 🧤 **Gesture Control** – Control systems Iron Man style  
+- 🔮 **AI Predictions Engine** – Predict the future with ML  
+- 🎮 Mini Games – Custom coded Wordle, TicTacToe, and more  
+- 🕉️ **Spiritual Synthesizer** – Turn bhajans into custom video bhakti
 
-🎵 Bhajan to Bhakti Video Creator using your own vocals
+---
 
+## 🌟 Currently Learning
 
-🌐 Connect with Me
-<p align="center"> <a href="https://github.com/Kansal0920" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Kansal0920-181717?style=for-the-badge&logo=github" /> </a> <a href="mailto:bhavyakansal.official@gmail.com"> <img src="https://img.shields.io/badge/Gmail-bhavyakansal-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://www.linkedin.com/in/bhavyakansal/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-BhavyaKansal-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+- 🤖 Deep Learning (NLP, CV, Transformers)  
+- 🧬 Robotics (from scratch)  
+- 🔐 Cybersecurity fundamentals  
+- ☁️ Cloud Deployment (Render, Fly.io, Vercel)
 
+---
 
-🧠 Fun Fact
-💬 I’m not building software... I’m building future tech.
-🧞 AAGNI is not just a bot, it's the beginning of a revolution 🤖🔥
-👁️‍🗨️ Vision: One day... you'll talk to machines like you're talking to your best friend. I'm making that happen.
+## 🧭 Vision
 
+> India will lead the AI Revolution.  
+> I will be one of the builders of that future.  
+> AAGNI is just **step one**.  
+> _“Let the world see what Indian tech can do.” 🇮🇳_
 
-<h3 align="center">⚡ The Future is Here. And It’s Built by Me. ⚡</h3> <p align="center"> <img src="https://media.giphy.com/media/xTiTnf9SCIVF6v3g0g/giphy.gif" width="120"> </p> ```
+---
 
+## 🔗 Connect With Me
 
+<p align="center">
+  <a href="https://github.com/Kansal0920"><img src="https://img.shields.io/badge/GitHub-Kansal0920-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:bhavyakansal.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-Bhavya%20Kansal-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bhavya-kansal-70067536a/"><img src="https://img.shields.io/badge/LinkedIn-Bhavya%20Kansal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/kansal.20"><img src="https://img.shields.io/badge/Instagram-kansal.20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kansal0920&show_icons=true&theme=radical&hide_title=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kansal0920&theme=radical&hide_border=true" width="49%" />
+</p>
+
+---
+
+<h3 align="center">⚡ Powered by Code, Fueled by Vision. Jai Hind. 🇮🇳</h3>
