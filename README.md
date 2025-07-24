@@ -21,7 +21,8 @@
 | Domain        | Tools & Skills |
 |---------------|----------------|
 | **Languages** | Python, JavaScript, Java, HTML/CSS |
-| **AI/ML**     | TensorFlow, Scikit-learn, Gemini API, Whisper, Vosk |
+| **AI/ML/DL**  | Machine Learning , Deep learning , Generative AI
+| **Libraries**  | Tensorflow , opencv , scikit learn , keras , numpy , pandas |
 | **Frontend**  | React.js, Tailwind CSS |
 | **Backend**   | Node.js, Express.js, FastAPI |
 | **Voice AI**  | gTTS, pygame, SpeechRecognition |
