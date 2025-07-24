@@ -20,19 +20,19 @@
 
 | Domain        | Tools & Skills |
 |---------------|----------------|
-| **Languages** | Python, JavaScript, Java, HTML/CSS |
-| **AI/ML/DL**  | Machine Learning , Deep learning , Generative AI
-| **Libraries**  | Tensorflow , opencv , scikit learn , keras , numpy , pandas |
-| **Frontend**  | React.js, Tailwind CSS |
-| **Backend**   | Node.js, Express.js, FastAPI |
-| **Voice AI**  | gTTS, pygame, SpeechRecognition |
-| **Tools**     | GitHub, Linux, Docker, Render, VSCode |
+| **Languages** | **Python, JavaScript, Java, HTML/CSS** |
+| **AI/ML/DL**  | **Machine Learning , Deep learning , Generative AI**|
+| **Libraries** | **Tensorflow , OpenCV , Scikit learn , Keras , Numpy , Pandas** |
+| **Frontend**  | **HTML , React.js, Tailwind CSS , Python Framework**|
+| **Backend**   | **Python, Node.js, Express.js, FastAPI** |
+| **Voice AI**  | **gTTS, pygame, SpeechRecognition** |
+| **Tools**     | **GitHub, VSCode, Docker, Render, Pycharm** |
 
 ---
 
 ## 🔥 Projects that Define Me
 
-- 🔥 **AAGNI** – India’s AI Assistant: Voice + Gemini-powered 🤖  
+- 🔥 **AAGNI AI** – India’s AI Assistant: Voice + Gemini-powered 🤖  
 - 🧤 **Gesture Control** – Control systems Iron Man style  
 - 🔮 **AI Predictions Engine** – Predict the future with ML  
 - 🎮 Mini Games – Custom coded Wordle, TicTacToe, and more  
