@@ -13,7 +13,7 @@
 > 🧠 I’m Bhavya Kansal — a passionate **AI developer** working on real-time futuristic systems like voice assistants, gesture control, and predictive AI.  
 > ⚡ My projects aren't just cool — they’re a glimpse of what **India’s tech future** looks like.  
 > 🚀 Let's not wait for the future... let's **build it**.
-
+> **Jai Hind 🇮🇳**
 ---
 
 ## 🚀 Tech Arsenal
@@ -32,10 +32,10 @@
 
 ## 🔥 Projects that Define Me
 
-- 🔥 **AAGNI AI** – India’s AI Assistant: Voice + Gemini-powered 🤖  
-- 🧤 **Gesture Control** – Control systems Iron Man style  
+- 🔥 **AAGNI AI** – India’s AI Assistant: Voice + Advance AI-powered 🤖  
+- 🧤 **Gesture Control** – Control Advance systems like Iron Man style  
 - 🔮 **AI Predictions Engine** – Predict the future with ML  
-- 🎮 Mini Games – Custom coded Wordle, TicTacToe, and more  
+- 🎮 Mini Games – Custom coded Wordle, TicTacToe, and more 
 - 🕉️ **Spiritual Synthesizer** – Turn bhajans into custom video bhakti
 
 ---
