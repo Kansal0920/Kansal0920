@@ -53,7 +53,7 @@
 
 > **India will lead the AI Revolution.  
 > I will be one of the builders of that future.  
-> AAGNI is just **step one**.  
+> AAGNI AI is just **step one**.  
 > _“Let the world see what Indian tech can do.” 🇮🇳_**
 
 ---
