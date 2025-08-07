@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=0FF5FC&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=HI+%F0%9F%91%8B%2C+I+am+Bhavya+Kansal;AI+Developer+%7C+Future+Tech+Architect+%7C+Visionary+Builder+of+AAGNI" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=0FF5FC&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=HI+%F0%9F%91%8B%2C+I+am+Bhavya+Kansal;AI+Developer+%7C+Future+Tech+Architect" alt="Typing Intro" />
 </h1>
 
 ---
@@ -15,7 +15,7 @@
 > 🚀 Let's not wait for the future... let's **build it**.
 
 ---
-## 💻 Tech Stack
+## 💻 Tech Stack Known
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #FFD43B); display: inline-block;" />
@@ -42,7 +42,7 @@
 ## 📘 Currently Learning
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #FF9900); display: inline-block;" />
+   <img src="https://d0.awsstatic.com/logos/powered-by-aws.png" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #0db7ed); display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #0db7ed); display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #326ce5); display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #F38020); display: inline-block;" />
