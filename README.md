@@ -25,11 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #264DE4); display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #61DBFB); display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #3C873A); display: inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #ffffff); display: inline-block;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #ffffff); display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #4DB33D); display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #FFCA28); display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #F05032); display: inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #FFFFFF); display: inline-block;" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #FFFFFF); display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" style="margin: 15px; filter: drop-shadow(0 0 10px #FCC624); display: inline-block;" />
 </div>
 
