@@ -73,18 +73,19 @@ ___
 
 ## 🔥 Projects that Define Me
 
-- 🔥 **AAGNI** – India’s AI Assistant: Voice + Gemini-powered 🤖  
+- 🤖 **Advance Robot (currently under progress)** - Most advace Robot powered by AAgni AI 
+- 🔥 **AAGNI** – India’s AI Assistant: Voice + Advace-Gemini-powered 🤖  
 - 🧤 **Gesture Control** – Control systems Iron Man style  
 - 🔮 **AI Predictions Engine** – Predict the future with ML  
 - 🎮 Mini Games – Custom coded Wordle, TicTacToe, and more  
 - 🕉️ **Spiritual Synthesizer** – Turn bhajans into custom video bhakti
-
+- 😄 **Emotion sense AI** - The ultimate Ai system to sense human emotions
 ---
 
 ## 🌟 Currently Learning
 
 - 🤖 Deep Learning (NLP, CV, Transformers)  
-- 🧬 Robotics (from scratch)  
+- 🧬 Advance Robotics 
 - 🔐 Cybersecurity fundamentals  
 - ☁️ Cloud Deployment (Render, Fly.io, Vercel)
 
