@@ -78,7 +78,7 @@ ___
 - 🔥 **AAGNI** – India’s AI Assistant: Voice + Advace-Gemini-powered 🤖  
 - 🧤 **Gesture Control** – Control systems Iron Man style  
 - 🔮 **AI Predictions Engine** – Predict the future with ML  
-- 🎮 Mini Games – Custom coded Wordle, TicTacToe, and more  
+- 🎮 **Mini Games** – Custom coded Wordle, TicTacToe, and more  
 - 🕉️ **Spiritual Synthesizer** – Turn bhajans into custom video bhakti
 - 😄 **Emotion sense AI** - The ultimate Ai system to sense human emotions
 ---
