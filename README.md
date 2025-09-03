@@ -62,6 +62,7 @@ ___
 | Domain              | Tools & Skills |
 |---------------      |----------------|
 | **Languages**       | Python, JavaScript, Java, HTML/CSS |
+| **Robotics**       | Robot making, Training RObot , Real time circuit making , Real time system building|
 | **Advance coding**  | Machine learning , Deep Learning , Generative AI , Robotics |
 | **AI/ML**           | TensorFlow, Scikit-learn, Gemini API, Whisper, Vosk |
 | **Frontend**        | React.js, Tailwind CSS |
