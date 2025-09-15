@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" style="border-radius: 20px;" alt="Bhavya Kansal | AAGNI Banner">
+  <img src="bg.png" width="100%" style="border-radius: 20px;" alt="Bhavya Kansal | Banner">
 </p>
 
 <h1 align="center">
